@@ -1,3 +1,3 @@
 Learn ts + react
 
-Link: 
+Link: https://hubduing.github.io/react-typescript/
